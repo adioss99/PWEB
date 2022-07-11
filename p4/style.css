@@ -1,0 +1,7 @@
+.background{
+    background-size: cover;
+    background-position: center;
+    min-height: 1080px;
+    position: relative;
+    color: black;
+  }

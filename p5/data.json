@@ -1,0 +1,170 @@
+[
+  {
+    "image": "png/20-Fabio-Quartararo@1x.png",
+    "name": "Fabio <br /> Quartararo",
+    "number": "20",
+    "nation": "https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png",
+    "team": "Monster Energy Yamaha MotoGP™"
+  },
+  {
+    "image": "png/21_Franco_Morbidelli_MotoGP_Rider_DS_5702@1x.png",
+    "name": "Franco <br />  Morbidelli",
+    "number": "21",
+    "nation": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+    "team": "Monster Energy Yamaha MotoGP™"
+  },
+  {
+    "image": "png/04_Andrea_Dovizioso_MotoGP_DS_6569@1x.png",
+    "name": "Andrea <br />  Dovizioso",
+    "number": "04",
+    "nation": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+    "team": "WithU Yamaha RNF MotoGP™ Team"
+  },
+  {
+    "image": "png/40_Darryn_Binder@1x.png",
+    "name": "Darryn <br />  Binder",
+    "number": "40",
+    "nation": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
+    "team": "WithU Yamaha RNF MotoGP™ Team"
+  },
+  {
+    "image": "png/93_Marc_Marquez@1x.png",
+    "name": "Marc  <br /> Marquez",
+    "number": "93",
+    "nation": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+    "team": "Repsol Honda Team"
+  },
+  {
+    "image": "png/44_Pol_Espargaro@1x.png",
+    "name": "Pol <br /> Espargaro",
+    "number": "44",
+    "nation": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+    "team": "Repsol Honda Team"
+  },
+  {
+    "image": "png/73_Alex_Marquez@1x.png",
+    "name": "Alex <br /> Marquez",
+    "number": "73",
+    "nation": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+    "team": "LCR Honda"
+  },
+  {
+    "image": "png/30-Takaaki_Nakagami@1x.png",
+    "name": "Takaaki <br />  Nakagami",
+    "number": "30",
+    "nation": "https://www.formula1.com/content/dam/fom-website/flags/Japan.jpg.transform/2col/image.jpg",
+    "team": "LCR Honda"
+  },
+  {
+    "image": "png/63_Francesco_Bagnaia@1x.png",
+    "name": "Francesco <br />  Bagnaia",
+    "number": "63",
+    "nation": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+    "team": "Ducati Lenovo Team"
+  },
+  {
+    "image": "png/43-Jack-Miller-Rider_DS_4907@1x.png",
+    "name": "Jack <br /> Miller",
+    "number": "43",
+    "nation": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%283-2_aspect_ratio%29.svg",
+    "team": "Ducati Lenovo Team"
+  },
+  {
+    "image": "png/05_Johann_Zarco_Rider_DS_5467@1x.png",
+    "name": "Johann <br /> Zarco",
+    "number": "5",
+    "nation": "https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png",
+    "team": "Ducati Pramac Racing"
+  },
+  {
+    "image": "png/89_Jorge_Martin_Rider_DS_5365@1x.png",
+    "name": "Jorge <br /> Martin",
+    "number": "89",
+    "nation": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+    "team": "Ducati Pramac Racing"
+  },
+  {
+    "image": "png/23-Enea-Bastiani-Rider_DS_5148@1x.png",
+    "name": "Enea <br /> Bastianini",
+    "number": "23",
+    "nation": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+    "team": "Ducati Gresini Racing MotoGP™"
+  },
+  {
+    "image": "png/49-Fabio-DiGiananntonioRider_DS_5200@1x.png",
+    "name": "Fabio <br /> Digiannantonio",
+    "number": "89",
+    "nation": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+    "team": "Ducati Gresini Racing MotoGP™"
+  },
+  {
+    "image": "png/10_Luca_Marini_GP_0503@1x.png",
+    "name": "Luca <br /> Marini",
+    "number": "10",
+    "nation": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+    "team": "Ducati Mooney VR46"
+  },
+  {
+    "image": "png/72_Marco_Bezzecchi@1x.png",
+    "name": "Marco <br /> Bezzechi",
+    "number": "72",
+    "nation": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+    "team": "Ducati Mooney VR46"
+  },
+  {
+    "image": "png/42_Alex_Rins@1x.png",
+    "name": "Alex <br /> Rins",
+    "number": "42",
+    "nation": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+    "team": "Team SUZUKI ECSTAR"
+  },
+  {
+    "image": "png/36_Joan_Mir@1x.png",
+    "name": "Joan <br /> Mir",
+    "number": "36",
+    "nation": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+    "team": "Team SUZUKI ECSTAR"
+  },
+  {
+    "image": "png/41-Aleix-Espargaro-Rider_DS_5304@1x.png",
+    "name": "Aleix <br /> Espargaro",
+    "number": "41",
+    "nation": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+    "team": "Aprilia Racing"
+  },
+  {
+    "image": "png/12_Maverick_Vinales_MotoGP_Rider_DS_5246@1x.png",
+    "name": "Maverick <br /> Vinales",
+    "number": "12",
+    "nation": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+    "team": "Aprilia Racing"
+  },
+  {
+    "image": "png/33_Brad_Binder@1x.png",
+    "name": "Brad <br /> Binder",
+    "number": "33",
+    "nation": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
+    "team": "Red Bull KTM Factory Racing"
+  },
+  {
+    "image": "png/88_Miguel_Oliveira@1x.png",
+    "name": " Miguel <br /> Oliveira",
+    "number": "88",
+    "nation": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+    "team": "Red Bull KTM Factory Racing"
+  },
+  {
+    "image": "png/87-Ramy-Garder_Rider_DS_5119@1x.png",
+    "name": " Remy <br /> Gardner",
+    "number": "87",
+    "nation": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%283-2_aspect_ratio%29.svg",
+    "team": "Tech3 KTM Factory Racing"
+  },
+  {
+    "image": "png/25-Raul-Fernandez-Rider_DS_5024@1x.png",
+    "name": "Raul <br /> Fernandez",
+    "number": "25",
+    "nation": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+    "team": "Tech3 KTM Factory Racing"
+  }
+]

@@ -1,0 +1,43 @@
+
+.header {
+    background: #06283D;
+    max-height: 50px;
+}
+
+#keyword {
+    background-color: white;
+    text-align: center;
+}
+
+#keyword:hover {
+    background-color: white;
+}
+
+#men {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+#men:hover {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+#isi {
+    background-color: rgb(247, 247, 229);
+}
+
+#isi:hover {
+    background-color: rgb(235, 235, 216);
+    transform: scale(1.1);
+}
+
+#aw{
+    width: 300px;
+    max-height: 50px;
+}
+#bebas{
+    max-height: 50px;
+    padding-left: 10px;
+}
